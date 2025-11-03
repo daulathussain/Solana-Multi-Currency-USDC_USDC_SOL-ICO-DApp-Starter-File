@@ -1,6 +1,6 @@
 # Solana Multi-Currency ICO DApp | Accept USDT, USDC & SOL Payments
 
-![alt text]()
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/11/Create-Deploy-a-Solana-Multi-Currency-ICO-DApp-Accept-USDT-USDC-SOL-Payments-Rust-Anchor-Next.js-Web3.jpg)
 
 - [Final Source Code]()
 
