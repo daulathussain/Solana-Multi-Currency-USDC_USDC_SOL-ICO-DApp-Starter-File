@@ -2,11 +2,11 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2025/11/Create-Deploy-a-Solana-Multi-Currency-ICO-DApp-Accept-USDT-USDC-SOL-Payments-Rust-Anchor-Next.js-Web3.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-and-deploy-a-solana-multi-currency-ico-dapp-or-accept-usdt-usdc-and-sol-payments-or-rust-+-anchor-+-next.js-+-web3js)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/Ch9-22CUrE8?si=MrqMHH5PYmMT0Vtz)
 
 Create & Deploy a Solana Multi-Currency ICO DApp | Accept USDT, USDC & SOL Payments | Rust + Anchor + Next.js + Web3.js
 
